@@ -2,7 +2,7 @@
 
 This module explored the basics of the react-testing library and ideas behind the integration testing methodology. In this project you will practice how to build tests that follow the arrange-act-assert model, different methods of querying for DOM elements in a test, the use of different expect types and using async/await to test for changes in state.
 
-## Testing Web Applications
+## Testing Web Applications 
 
 ## Objectives
 
@@ -21,7 +21,7 @@ As a developer, you will be writing tests for every component. As we've learned,
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceding forward.***
 
-## Instructions
+## Instructions - DONE
 ### Task 1: Project Set Up
 * [ ] Create a forked copy of this project.
 * [ ] Clone your OWN version of the repository in your terminal
